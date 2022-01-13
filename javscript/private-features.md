@@ -2,8 +2,8 @@
 
 Utilizar **#** antes da declaração de atributos e métodos
 
-``` 
-class minhaClasse(){
+```javascript 
+class minhaClasse() {
   #atributoPrivado;
   
   construtor(valorAtributo) {
